@@ -45,7 +45,7 @@ Docker • Git • GitHub • Render • Vercel • Kubernetes (Learning) • AW
 
 # 🚀 Featured Projects
 
-## 📚 Bookies – AI-Powered Book Mentor
+## 📚 Bookies – AI-Powered Book Mentor | Link: https://github.com/Prayag1-tecj/bookies
 
 AI-powered SaaS platform that transforms books into interactive mentors using Retrieval-Augmented Generation (RAG).
 
@@ -62,7 +62,7 @@ AI-powered SaaS platform that transforms books into interactive mentors using Re
 
 ---
 
-## 📱 FeedFlow – AI-Powered Instagram Feed Personalization Platform
+## 📱 FeedFlow – AI-Powered Instagram Feed Personalization Platform | Link: https://github.com/Prayag1-tecj/feedflow 
 
 Full-stack mobile application that helps users personalize Instagram recommendations through intelligent automation.
 
@@ -79,7 +79,7 @@ Full-stack mobile application that helps users personalize Instagram recommendat
 
 ---
 
-## 📄 AI Resume Analyzer
+## 📄 AI Resume Analyzer | Link: https://github.com/Prayag1-tecj/ai-resume-analyzer
 
 AI-powered platform that evaluates resumes and generates personalized recommendations.
 
