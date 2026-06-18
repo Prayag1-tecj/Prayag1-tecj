@@ -62,23 +62,6 @@ AI-powered SaaS platform that transforms books into interactive mentors using Re
 
 ---
 
-## 📱 FeedFlow – AI-Powered Instagram Feed Personalization Platform | Link: https://github.com/Prayag1-tecj/feedflow 
-
-Full-stack mobile application that helps users personalize Instagram recommendations through intelligent automation.
-
-### Highlights
-
-- React Native + Expo
-- TypeScript
-- Django REST Framework
-- PostgreSQL
-- JWT Authentication
-- Playwright Automation
-- Analytics Dashboard
-- Recommendation Optimization Workflows
-
----
-
 ## 📄 AI Resume Analyzer | Link: https://github.com/Prayag1-tecj/ai-resume-analyzer
 
 AI-powered platform that evaluates resumes and generates personalized recommendations.
