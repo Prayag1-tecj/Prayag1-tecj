@@ -45,7 +45,7 @@ Docker • Git • GitHub • Render • Vercel • Kubernetes (Learning) • AW
 
 # 🚀 Featured Projects
 
-## 📚 Bookies – AI-Powered Book Mentor | Github Repo Link: https://github.com/Prayag1-tecj/bookies
+## 📚 Bookies – AI-Powered Book Mentor | Live Demo: https://bookies-nu.vercel.app |Github Repo Link: https://github.com/Prayag1-tecj/bookies
 
 AI-powered SaaS platform that transforms books into interactive mentors using Retrieval-Augmented Generation (RAG).
 
